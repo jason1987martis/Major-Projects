@@ -5,7 +5,7 @@ This repository contains information pertaining to the list of projects accompli
 
 # List Of Projects 
 1. [Electricity theft detection](https://github.com/jason1987martis/Major-Projects/blob/main/README.md#electricity-theft-detection)
-2. [Assessment of Image Enhancement Techniques for Photo Sketch Matching](https://github.com/jason1987martis/Major-Projects/blob/main/README.md#Assessment-of-Image-Enhancement-Techniques-for-Photo-Sketch-Matching)
+2. [Reckoning of Emotions using Posture Features](https://github.com/jason1987martis/Major-Projects/blob/main/README.md#Assessment-of-Image-Enhancement-Techniques-for-Photo-Sketch-Matching)
 3. [A Rapid Automated Process for Organizing Bacterial Cluster Segments Using Deep Neural Networks](https://github.com/jason1987martis/Major-Projects/blob/main/README.md#A-Rapid-Automated-Process-for-Organizing-Bacterial-Cluster-Segments-Using-Deep-Neural-Networks)
 4. [A Novel Key Generation Approach Based on Facial Image Features for Stream Cipher System](https://github.com/jason1987martis/Major-Projects/blob/main/README.md#A-Novel-Key-Generation-Approach-Based-on-Facial-Image-Features-for-Stream-Cipher-System)
 
@@ -22,17 +22,18 @@ Electricity theft detection
 
 **Paper Link** - https://ieeexplore.ieee.org/abstract/document/8455088/
 
-Assessment of Image Enhancement Techniques for Photo Sketch Matching
+Reckoning of Emotions using Posture Features
 -------------------------------------
-**Features of the application** - Image supported examination procedures are widely considered in the variety of fields. Typically, the image examination involves in the extracting the region of interest or features for the further investigation. In human detection system and also in criminal science, identification of the correct person is essential for the authentication requirements. In these applications, usually, the sketch drawn by an expert or a computer is matched against the digital photographs available in the criminal or the public database. During this examination, essential facial features are extracted from the sketch and digital photography is compared to identify the percentage of fit. The proposed work in this paper aims to examine the existing image enhancement and identification procedures existing in the literature. After creating the essential sketch for a person, a comparative analysis against the digital photo (Gray / RGB scale) of the person is performed, and the image similarity measures, such as PSNR, MSE, and SSIM are computed. In this paper, the benchmark datasets, like CUHK and PRIP-HDC are considered for the examination, and the empirical trial is achieved with the help of Matlab software.
+**Features of the application** - Emotions are noteworthy signs to understand the intentions of others peoples during communication with them. Similarly, in order to identify the different emotional states of individual such as joy, sadness, and anger, using facial expressions and vocal tone are less effective due to the variations in facial and vocal outputs. Thus, for recognizing emotions intensely without variation physique postures analysis can give effective outputs. Thus, physique posture analysis of the individual can be obtained by mapping the joints using Reeb graph which plots all the joints into carvative structure to learn posture, and the angles between the joints of posture are detected by law of cosines which depicts the vigorous expression along with postures. In addition to that much more reliable recognition of emotions without distractions can be obtained through the detailed features by preprocessing the input image through the fusion of Median and Wiener filter which avoids all the five types of noise occurrence so detailed features such as Invariant, Depth sequential silhouettes and Spatiotemporal body joint can be obtained to aid efficient analysis of posture that can pave a way to identify the different emotions by tactic Tree based classifier to get better performance in terms of execution time and accuracy. 
 
 **Technologies Used**
-1. MATLAB
+1. Machine Learning
 2. Image Processing
+3. C#
 
-**Conclusion and Future Scope** - In forensic science, during the composite sketch and photo matching process efficient procedure is to be followed to improve the detection accuracy. The proposed research work aims to compare various enhancement procedures, that can be implemented to pre-process the test pictures to improve the detection accuracy. In this paper, most common pre-processing procedures, such as adapthisteq, histeq, imadjust and unsharp-masking are adopted to enhance the sketch as well as the original photo. During the examination, the public face datasets, such as CUHK and PRIP-HDC are considered for the analysis. All the implementations is accomplished through the standard Matlab tool. The experimental work of this investigation upholds that for both the datasets, the unsharp-masking produces improved detection rate in comparison to the substitute methods.  
+**Conclusion and Future Scope** - Thus, the emotions of the people are identified by the physique posture recognition through joint detection and angle of posture by Reeb graph methodology and the law of cosines with aid of tactic preprocessing and feature extraction techniques. These strategies lift up the accuracy of the emotion recognition by postures to about 97%. The future extension of this work can be focused to improve accuracy drops during recognition of certain emotions which is of very less values around 75% due to the fact neutral factor.
 
-**Paper Link** - https://ieeexplore.ieee.org/abstract/document/9007980
+**Paper Link** - https://www.tandfonline.com/doi/abs/10.1080/19361610.2019.1645530?journalCode=wasr20
 
 A Rapid Automated Process for Organizing Bacterial Cluster Segments Using Deep Neural Networks
 -------------------------------------
