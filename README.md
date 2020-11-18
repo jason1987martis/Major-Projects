@@ -4,10 +4,10 @@ This repository contains information pertaining to the list of projects accompli
 
 
 # List Of Projects 
-1. [Electricity theft detection](https://github.com/sannidhan/Major-Projects/blob/main/README.md#electricity-theft-detection)
-2. [Assessment of Image Enhancement Techniques for Photo Sketch Matching](https://github.com/sannidhan/Major-Projects/blob/main/README.md#Assessment-of-Image-Enhancement-Techniques-for-Photo-Sketch-Matching)
-3. [A Rapid Automated Process for Organizing Bacterial Cluster Segments Using Deep Neural Networks](https://github.com/sannidhan/Major-Projects/blob/main/README.md#A-Rapid-Automated-Process-for-Organizing-Bacterial-Cluster-Segments-Using-Deep-Neural-Networks)
-4. [A Novel Key Generation Approach Based on Facial Image Features for Stream Cipher System](https://github.com/sannidhan/Major-Projects/blob/main/README.md#A-Novel-Key-Generation-Approach-Based-on-Facial-Image-Features-for-Stream-Cipher-System)
+1. [Electricity theft detection](https://github.com/jason1987martis/Major-Projects/blob/main/README.md#electricity-theft-detection)
+2. [Assessment of Image Enhancement Techniques for Photo Sketch Matching](https://github.com/jason1987martis/Major-Projects/blob/main/README.md#Assessment-of-Image-Enhancement-Techniques-for-Photo-Sketch-Matching)
+3. [A Rapid Automated Process for Organizing Bacterial Cluster Segments Using Deep Neural Networks](https://github.com/jason1987martis/Major-Projects/blob/main/README.md#A-Rapid-Automated-Process-for-Organizing-Bacterial-Cluster-Segments-Using-Deep-Neural-Networks)
+4. [A Novel Key Generation Approach Based on Facial Image Features for Stream Cipher System](https://github.com/jason1987martis/Major-Projects/blob/main/README.md#A-Novel-Key-Generation-Approach-Based-on-Facial-Image-Features-for-Stream-Cipher-System)
 
 Electricity theft detection
 -------------------------------------
